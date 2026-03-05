@@ -1,0 +1,21 @@
+---
+title: "SCORE 설문"
+type: concept
+concept: "SCORE 설문"
+document_count: 1
+synthesis_status: "생성 기준 미달"
+date_created: 2026-03-03
+tags:
+  - concept
+---
+
+# SCORE 설문
+
+## 종합분석 노트
+미생성 (근거 문서 1건: 종합분석 권장 기준 2건 이상)
+
+## 카테고리
+진단_개선
+
+## 관련 원천 문서
+- [[SCORE 설문_ 의료기관 조직문화 진단 및 개선 도구|SCORE 설문: 의료기관 조직문화 진단 및 개선 도구]]

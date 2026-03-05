@@ -1,0 +1,17 @@
+---
+title: "Denison 모델 — 종합 분석"
+type: synthesis
+status: archived_redirect
+date_created: 2026-03-03
+tags:
+  - synthesis
+  - redirect
+---
+
+# Denison 모델 — 종합 분석
+
+> 이 노트는 최신 체계에서 통합되어 보관용으로 유지됩니다.
+> 최신 개념 표준화에서 데니슨 표기로 통합됨.
+
+## 이동
+- [[데니슨 모델 — 종합 분석]]

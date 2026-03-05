@@ -1,0 +1,21 @@
+---
+title: "ESG_사회영역"
+type: concept
+concept: "ESG_사회영역"
+document_count: 1
+synthesis_status: "생성 기준 미달"
+date_created: 2026-03-03
+tags:
+  - concept
+---
+
+# ESG_사회영역
+
+## 종합분석 노트
+미생성 (근거 문서 1건: 종합분석 권장 기준 2건 이상)
+
+## 카테고리
+진단_개선
+
+## 관련 원천 문서
+- [[2023년 HR 변화와 전략_ AI, DEI, ESG 중심으로|2023년 HR 변화와 전략: AI, DEI, ESG 중심으로]]
