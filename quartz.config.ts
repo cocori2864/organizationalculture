@@ -10,11 +10,11 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "🏛️ 조직문화 지식 창고",
     pageTitleSuffix: "",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: null,
     locale: "ko-KR",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "cocori2864.github.io/organizationalculture",
     ignorePatterns: ["private", "templates", ".obsidian", "Generated_Notes"],
     defaultDateType: "modified",
     theme: {
@@ -93,3 +93,4 @@ const config: QuartzConfig = {
 }
 
 export default config
+
